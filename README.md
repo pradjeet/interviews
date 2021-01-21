@@ -1,5 +1,5 @@
 # Interviews
-> Your personal guide to Software Engineering technical interviews. Video
+> Your awesome guide to Software Engineering technical interviews. Video
 > solutions to the following interview problems with detailed explanations can be found [here](https://www.youtube.com/channel/UCKvwPt6BifPP54yzH99ff1g).
 <a href="https://www.youtube.com/channel/UCKvwPt6BifPP54yzH99ff1g" style="display:block;"><img src="/images/youtube.jpg?raw=true"></a>
 >
